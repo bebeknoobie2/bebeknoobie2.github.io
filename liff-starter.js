@@ -1,7 +1,7 @@
 window.onload = function() {
     const useNodeJS = false; 
-    const defaultLiffId = "1657498321-KmjPOxyo";
-    let myLiffId = "1657498321-KmjPOxyo";
+    const defaultLiffId = "1657498871-0knDjykO";
+    let myLiffId = "1657498871-0knDjykO";
 
     if (useNodeJS) {
         fetch('/liff/send-id', {
